@@ -1,22 +1,19 @@
-# Code and Digital Technology Narrative
+# Pitt Fuego Webtext Generator
 
-Hello students! This multimodal coding project is a great way for you to learn how to work with code and develop your own literacies, computational thinking skills, and computer science knowledge.
+Welcome to Pitt Fuego Webtext Generator! This tool allows the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. See [Video](https://youtu.be/KVUBbM7pIYw?si=S02HKRwmh-psrWHJ)
 
-By working through the prompts in the index.html file, you will construct your own multimodal project relating your code and technology narrative.  
+We recommend you begin with one of our starter programs before using this one. 
+   
 
-This beginner template allows the you to mix and match code blocks should you wish to further customize your work. It's a great introduction to code that will prepare you to use other [Open Fuego Coding Tools](https://github.com/open-fuego)
 
-Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
-
-    
-##Get started!
+## Get started!
 
 
 1. Scroll to the top of this repository and click the green "**Code**" button. Select "**Download ZIP**" to download project files to your local computer. These are all the project files you'll need to get started working with code.
 
 2. Find this project folder in your downloads and move it to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
 
-3. Download and/or open a code editor. We recommend [Phoenix Code](https://phcode.dev) which runs on a browser or [download](https://phcode.io/#/home) a desktop version.
+3. Download and/or open a code editor. We recommend  [Visual Studio Code](https://code.visualstudio.com/download) (See download and setup instructions below).
 
 4. Use the code editor to open your project folder. Open index.html document. Read through the code comments embedded in the index.html document. Here, you'll find all the information you need to work with code! 
 
